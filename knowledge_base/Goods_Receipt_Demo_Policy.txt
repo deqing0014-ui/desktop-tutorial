@@ -1,0 +1,9 @@
+SYNTHETIC DEMO POLICY - NOT AN ORGANISATIONAL POLICY
+
+1. Goods Receipt submissions should contain evidence appropriate to the transaction type.
+2. For recurring services, the Purchase Order, applicable Invoice Instruction and supplier invoice are the core documents for financial validation.
+3. Delivery or acceptance evidence may be required for a first payment or where the applicable procedure requires evidence of service commencement/acceptance.
+4. For subsequent recurring invoices, delivery/acceptance evidence may be optional where the applicable procedure does not require re-submission.
+5. The annual Invoice Instruction allocation should be checked against the current invoice and cumulative utilisation where that information is available.
+6. Variances should be highlighted for Finance review rather than automatically rejected.
+7. Finance retains the final decision to approve, return or process the Goods Receipt.
